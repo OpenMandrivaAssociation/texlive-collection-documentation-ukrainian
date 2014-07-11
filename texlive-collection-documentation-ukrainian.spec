@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-ukrainian
 Epoch:		1
 Version:	20120224
-Release:	6
+Release:	7
 Summary:	Ukrainian documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
